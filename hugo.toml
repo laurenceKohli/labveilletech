@@ -41,8 +41,8 @@ previewCardImagePlacement = "bottom"
 
 [Params.Author]
   name = "Laurence Kohli"
-  website = "TODO"
-  authorInfo = "Live your life as though every moment matters, because in the end, it's not the years in your life, but the life in your years that counts."
+  website = "https://bento.me/laurence-kohli"
+  authorInfo = "C'est en visant la lune que l'on atteint les étoiles."
   authorPostImage = "/img/author-post-img.jpg"
 
 [[menu.main]]

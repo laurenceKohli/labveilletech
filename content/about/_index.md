@@ -7,7 +7,7 @@ title: "À propos de moi"
 Je suis Laurence Kohli
 
 #### Domaine
-![Ikigai](/img/ikigai.png "Mon Ikigai")
+![Ikigai](ikigai.png "Mon Ikigai")
 
 Prendre un seul domaine ne semblait pas faire de sens selon mon Ikigai.
 
