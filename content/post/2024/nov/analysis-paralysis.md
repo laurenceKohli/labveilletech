@@ -2,8 +2,8 @@
 title: Analysis Paralysis
 date: 2024-11-14
 tags: ["management", "blog"]
-image : "/img/posts/img-2.jpg"
-Description  : "It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub..."
+image : "img/posts/cycle-of-analysis-paralysis.png"
+Description  : "Pour 85% d'entre nous prendre une décision importante est paralysant. C'est ce qu'on appelle la paralysie d'analyse..."
 featured: true
 ---
 
@@ -30,4 +30,4 @@ Je sais que personnellement je me retrouve souvent paralysée quand je dois pren
 
 Cet article va me servir au quotidien que ce soit dans le travail, dans la gestion de mon groupe scout ou dans ma vie personnelle. C'est donc une ressource qui sera toujours dans un coin de ma tête lors de prises de décisions importantes.
 
-<!--Photo by Robert Katzki on Unsplash-->
+<!--Photo by Jory MacKay on Planio-->
