@@ -8,7 +8,9 @@ featured: true
 ---
 
 ### Analysis paralysis ?
-source : https://plan.io/blog/what-is-analysis-paralysis/ 
+Source :  [What is anaylsis paralysis | Planio ](https://plan.io/blog/what-is-analysis-paralysis/)
+Article trouvé en recherchant les personnes ressources du domaine
+
 #### Résumé
 Pour 85% d'entre nous prendre une décision importante est paralysant. C'est ce qu'on appelle la paralysie d'analyse. Nous analysons une situation jusqu'au moindre détail sans jamais trouver une solution adéquate pour le résoudre.
 
