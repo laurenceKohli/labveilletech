@@ -51,25 +51,14 @@ previewCardImagePlacement = "bottom"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
-
-[[menu.main]]
-    name = "Tags"
+    name = "Blog"
     url = "/tags/blog/"
-    weight = 3
-
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
+    weight = 2
 
 [[menu.main]]
     name = "A propos"
     url = "/about/"
-    weight = 5
-
+    weight = 3
 
 [sitemap]
   changefreq = "monthly"
