@@ -26,8 +26,8 @@ Voici les principaux points :
 - **Exemples d'entreprises à impact** : Patagonia, La Ruche qui dit Oui !, et Kazidomi sont mentionnées comme des exemples d'entreprises réussissant à concilier quête de sens et réussite financière
 
 #### A propos de cet article
-Savoir que les entreprises avec un impact sur la société sont labelisées (B Corp) et une réelle catégorie d'entreprise me réjouis. Je ne pensais pas qu'autant d'entreprises avaient fait le pas. Connaitre les piliers fondamentaux de ces entreprises me permettra de rester à l'affut des entreprises qui me correspondent. Quand on regarde la loi scoute ( [Scout, nous voulons](https://www.logiciel-libre.ch/textes_fondamentaux/loi_scout_suisse)), on peut voir que beaucoup de valeurs sont communes avec ces nouvelles entreprises.
+Savoir que les entreprises avec un impact sur la société sont labelisées (B Corp) et qu'elles sont une réelle catégorie d'entreprise me réjouit. Je ne pensais pas qu'autant d'entreprises avaient fait le pas. Connaitre les piliers fondamentaux de ces entreprises me permettra de rester à l'affut des entreprises qui me correspondent. Quand on regarde la loi scoute ( [Scout, nous voulons](https://www.logiciel-libre.ch/textes_fondamentaux/loi_scout_suisse)), on peut voir que beaucoup de valeurs sont communes avec ces nouvelles entreprises.
 
-Cet article me sera utile si je développe ma propre entreprise. J'aimerais un modèle d'affaire et une vision qui impacte réellement les habitants et les employés.
+Cet article me sera utile si je développe ma propre entreprise. J'aimerais un modèle d'affaire et une vision qui impacte réellement les consommateurs et les employés.
 
 <!--Photo by Céline Pernot-Burlet for Baromètre de l'Entrepreneuriat Social 2019-->

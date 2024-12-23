@@ -9,7 +9,7 @@ featured: true
 
 ### Les défis de l’IA dans la communication
 Source : [Les défis de l'intelligence artificielle | Impacts médias](https://www.impactmedias.ch/actualites/les-defis-de-lintelligence-artificielle)
-Article trouvé en recherchant des sources d'informations pour la communication impactante
+Article trouvé en recherchant des sources d'information pour la communication impactante
 
 #### Résumé
 Cet article s'adresse principalement aux professionnels des médias, aux régulateurs, et à toute personne intéressée par les défis et les opportunités posés par l'intelligence artificielle dans le domaine de l'information. L'article aborde la régulation nécessaire de l'IA, les droits d'auteur, et la confiance des lecteurs. 
@@ -24,6 +24,6 @@ Voici les principaux points :
 #### A propos de cet article
 L'Intelligence artificielle met à grande épreuve les métiers de la communication. Reconnaitre les contenus qui utilisent de l'IA et ceux qui sont rédigés par des humains sera nécessaire. Connaitre les méthodes pour garantir nos contenus est intéressant pour gagner en crédibilité.
 
-Cet article ne me sera pas utile en soi pour la suite. Il m'indique cependant de rester en alerte concernant les mesures que prendront les entreprises de communication. Il parle aussi des normes et protections qui sont en train d'être mises en place par les gouvernements. Je vais devoir me renseigner sur ces aspects quand je serais en entreprise.
+Cet article ne me sera pas utile en soi pour la suite. Il m'indique cependant de rester en alerte concernant les mesures que prendront les entreprises de communication. Il parle aussi des normes et protections qui sont en train d'être mises en place par les gouvernements. Je vais devoir me renseigner sur ces aspects quand je serai en entreprise.
 
 <!--Photo by Bing IA -->

@@ -25,6 +25,6 @@ Voici les 5 points traités :
 L'arrivée de l'Intelligence artificielle va grandement modifier le quotidien des entreprises. Avoir des connaissances dans le domaine et savoir comment en faire profiter nos équipes est nécessaire pour moi. Au lieu de l'éviter, il faut apprendre à l'utiliser de manière efficace et ciblée pour qu'elle soit un appui.
 Cet article aide à comprendre les enjeux et ce qu'on pourrait mettre en place pour apprivoiser l'IA.
 
-Cet article va me servir quand je serais dans une entreprise. Je le relirais et essayerais de mettre cela en place afin d'aider l'entreprise à avoir un workflow plus dynamique et déléguer tout ce qui est répétitif ou apportant peu de valeur à l'IA.
+Cet article va me servir quand je serai dans une entreprise. Je le relirai et essayerai de mettre cela en place afin d'aider l'entreprise à avoir un workflow plus dynamique et déléguer tout ce qui est répétitif ou apportant peu de valeur à l'IA.
 
 <!--Photo by Bing IA -->

@@ -12,7 +12,7 @@ Source :  [What is anaylsis paralysis | Planio ](https://plan.io/blog/what-is-an
 Article trouvé en recherchant les personnes ressources du domaine
 
 #### Résumé
-Pour 85% d'entre nous prendre une décision importante est paralysant. C'est ce qu'on appelle la paralysie d'analyse. Nous analysons une situation jusqu'au moindre détail sans jamais trouver une solution adéquate pour le résoudre.
+Pour 85% d'entre nous prendre une décision importante est paralysant. C'est ce qu'on appelle la paralysie d'analyse. Nous analysons une situation jusqu'au moindre détail sans jamais trouver une solution adéquate pour la résoudre.
 
 Pour sortir de cette paralysie, Jory MacKay propose 8 pistes de résolution :
 - Pour toutes les décisions
@@ -26,9 +26,9 @@ Pour sortir de cette paralysie, Jory MacKay propose 8 pistes de résolution :
 	- Prendre les grandes décisions en équipe
 	- Mettre en place un environnement de travail qui accepte les échecs
 #### A propos de cet article
-J'ai beaucoup entendu parler de la pression qui repose sur les épaules des chef.fe.s de projet. Je pense qu'avoir des stratégies claires de prise de décision peut les décharger. Je sais que les équipes ont souvent peur des échecs et que la politique première est de toujours réussir ce qui engendre stress et manque de prises de décisions. Cet article aide à voir le problème sous un nouveau angle.
+J'ai beaucoup entendu parler de la pression qui repose sur les épaules des chef.fe.s de projet. Je pense qu'avoir des stratégies claires de prise de décision peut les décharger. Je sais que les équipes ont souvent peur des échecs et que la politique première est de toujours réussir ce qui engendre stress et manque de prises de décisions. Cet article aide à voir le problème sous un nouvel angle.
 
-Je sais que personnellement je me retrouve souvent paralysée quand je dois prendre de grandes décisions. J'ai tendance à attendre le dernier moment s'il y a un délai ou alors à repousser à jamais. J'ai donc besoin de mettre en place des stratégies pour éviter que cette situation se passe plus fréquemment.
+Je sais que personnellement je me retrouve souvent paralysée quand je dois prendre de grandes décisions. J'ai tendance à attendre le dernier moment s'il y a un délai ou alors à repousser à jamais. J'ai donc besoin de mettre en place des stratégies pour éviter que cette situation se produise plus fréquemment.
 
 Cet article va me servir au quotidien que ce soit dans le travail, dans la gestion de mon groupe scout ou dans ma vie personnelle. C'est donc une ressource qui sera toujours dans un coin de ma tête lors de prises de décisions importantes.
 
